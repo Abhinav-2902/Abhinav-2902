@@ -9,7 +9,9 @@ Building on the web • Compiles. Mostly.
 <h2 align="center">Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,docker,js,ts,html,nodejs,express,postgres,mongodb,prisma,tailwind,vercel,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,tailwind" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,git,github" />
 </p>
 
 ---
