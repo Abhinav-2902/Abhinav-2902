@@ -6,10 +6,10 @@ Building on the web • Compiles. Mostly.
 
 ---
 
-<h2 align="center">⚡ Languages & Technologies</h2>
+<h2 align="center">Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,express,postgres,mongodb,prisma,tailwind,html,git,github,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,mongodb" />
 </p>
 
 ---
