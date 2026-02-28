@@ -12,8 +12,6 @@ Building on the web • Compiles. Mostly.
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,nodejs,express,postgres,mongodb,prisma,tailwind,vercel,git,github" />
 </p>
 
-<p align="center"><i>Works. Usually.</i></p>
-
 ---
 
 <p align="center">
