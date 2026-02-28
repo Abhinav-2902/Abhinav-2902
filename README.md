@@ -1,7 +1,7 @@
 <h1 align="center">Hey Bud, I'm Abhinav 👋</h1>
 
 <p align="center">
-Full-stack web development • Compiles. Mostly.
+Building on the web • Compiles. Mostly.
 </p>
 
 ---
