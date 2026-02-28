@@ -6,12 +6,18 @@ Building on the web • Compiles. Mostly.
 
 ---
 
-<h2 align="center">Stack</h2>
+<h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,postgres,mongodb" />
-</p>
+  <code>Frontend</code><br/>
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,tailwind" /><br/><br/>
 
+  <code>Backend</code><br/>
+  <img src="https://skillicons.dev/icons?i=express,nodejs,postgres,mongodb,prisma" /><br/><br/>
+
+  <code>Tools</code><br/>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 ---
 
 <p align="center">
